@@ -1,0 +1,13 @@
+iso3,country,observed_years,complete_series,missing_years,missing_year_list
+BHR,Bahrain,15,True,0,
+EGY,Egypt,15,True,0,
+IRN,Iran,15,True,0,
+IRQ,Iraq,15,True,0,
+ISR,Israel,15,True,0,
+JOR,Jordan,15,True,0,
+KWT,Kuwait,15,True,0,
+LBN,Lebanon,15,True,0,
+OMN,Oman,15,True,0,
+SAU,Saudi Arabia,15,True,0,
+SYR,Syria,1,False,14,2011;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024
+TUR,Türkiye,15,True,0,

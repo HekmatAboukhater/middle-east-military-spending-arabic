@@ -1,0 +1,9 @@
+{
+  "file": "world-bank-snapshot.json",
+  "url": "https://api.worldbank.org/v2/country/BHR;EGY;IRN;IRQ;ISR;JOR;KWT;LBN;OMN;SAU;SYR;TUR/indicator/MS.MIL.XPND.GD.ZS?date=2010:2024&format=json&per_page=20000",
+  "retrieved_utc": "2026-11-22T03:33:17.272307+00:00",
+  "sha256": "fa5c88f55ff5197d9d21734193d2a60172af62f7c43485974f4fa401fbb85217",
+  "bytes": 40003,
+  "indicator": "MS.MIL.XPND.GD.ZS",
+  "source": "SIPRI Military Expenditure Database, distributed by World Bank WDI"
+}

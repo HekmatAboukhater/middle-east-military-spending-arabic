@@ -1,0 +1,25 @@
+{
+  "requested_countries": 12,
+  "country_year_records": 180,
+  "observed_values": 166,
+  "missing_values": 14,
+  "balanced_country_codes": [
+    "BHR",
+    "EGY",
+    "IRN",
+    "IRQ",
+    "ISR",
+    "JOR",
+    "KWT",
+    "LBN",
+    "OMN",
+    "SAU",
+    "TUR"
+  ],
+  "mean_change_2010_2024_pp": -0.42583849073636365,
+  "mean_change_2023_2024_pp": 0.3273267580454546,
+  "change_in_cross_country_median_2023_2024_pp": -0.5759058002000002,
+  "median_country_change_2023_2024_pp": 0.023624777100000216,
+  "countries_increasing_2010_2024": 2,
+  "countries_increasing_2023_2024": 7
+}
